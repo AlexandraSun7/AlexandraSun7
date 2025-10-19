@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Alexandra 👋  
 
-<!--
-**AlexandraSun7/AlexandraSun7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Python | Machine Learning | Visualization**  
+**Former Architectural Drafter skilled in 3D Rhino & Photoshop**
 
-Here are some ideas to get you started:
+🎯 Focused on: Predictive modeling, time-series forecasting, and data-driven insights  
+📊 Skilled in: Python, pandas, scikit-learn, matplotlib, seaborn, Excel  
+💡 Experienced in: Architectural drafting, 3D modeling (Rhino), Adobe Photoshop  
+📍 Based in Los Angeles, CA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [View My Resume](https://github.com/alexandrasun/alexandrasun/blob/main/AlexandraSun_Resume.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)  
+
+---
+
+### Featured Projects
+- [Walmart Sales Forecasting](https://github.com/alexandrasun/walmart-sales-forecasting)  
+- [HR Attrition Prediction](https://github.com/alexandrasun/hr-attrition)  
+- [Housing Prices EDA](https://github.com/alexandrasun/housing-eda)
+
+---
+
+### 🌱 Currently Learning
+- Deep Learning with Keras & TensorFlow  
+- Data Visualization Dashboards  
+- Integrating AI with Design Tools
