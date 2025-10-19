@@ -9,7 +9,7 @@
 📍 Based in Los Angeles, CA  
 
 📄 [View My Resume](https://github.com/alexandrasun/alexandrasun/blob/main/AlexandraSun_Resume.pdf)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/in/aleksandra-shahet-540a17284/))  
 
 ---
 
