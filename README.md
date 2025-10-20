@@ -15,7 +15,7 @@
 
 ### Featured Projects
 - [Walmart Sales Forecasting](https://github.com/alexandrasun/walmart-sales-forecasting)  
-- [HR-Attrition-Prediction](https://github.com/alexandrasun/HR-Attrition-Prediction)  
+- [HR-Attrition-Prediction](https://github.com/AlexandraSun7/HR-Attrition-Prediction.git)  
 - [Housing Prices EDA](https://github.com/alexandrasun/housing-eda)
 
 ---
